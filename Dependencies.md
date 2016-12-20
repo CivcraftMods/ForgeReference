@@ -21,4 +21,4 @@ Next in the lower dependencies block (not the one in the buildscript at the top,
   }
 ```
 
-last thing is to run the command 'gradlew eclipse --refresh-dependencies' and refresh your eclipse workspace.
+last thing is to run the command 'gradlew clean --refresh-dependencies' and refresh your eclipse workspace.
